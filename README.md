@@ -14,8 +14,9 @@ download data from below link
 https://drive.google.com/drive/folders/18zqQiCJVgF7uzXgfbIJ-04zgz1ItNfF5
 ```
 
-''' bash
+```bash
 git init
+```
 
 ```bash
 dvc init
