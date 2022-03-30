@@ -38,3 +38,29 @@ git commit -m "First Commit"
 oneliner command
 git add . ; git commit -m "Updated Readme"
 ```
+
+```bash
+tox command -
+tox
+```
+
+for rebuilding -
+```bash
+tox -r 
+```
+
+pytest command
+```bash
+pytest -v
+```
+
+setup commands -
+```bash
+pip install -e . 
+```
+
+
+build your own package commands-
+```bash
+python setup.py sdist bdist_wheel
+```
