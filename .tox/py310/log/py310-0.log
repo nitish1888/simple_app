@@ -1,0 +1,4 @@
+action: py310, msg: getenv
+cwd: C:\Users\User\demo\simple_app\.tox
+cmd: 'C:\Users\User\demo\simple_app\projectenv\Scripts\python.exe' -m virtualenv --no-download --python 'C:\Users\User\demo\simple_app\projectenv\Scripts\python.exe' py310
+PermissionError: [WinError 5] Access is denied: 'C:\\Users\\User\\demo\\simple_app\\.tox\\py310\\Scripts\\python.exe'
